@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Download-an/Perpustakaan-master/app/src/main/res/drawable/ic_create_black_24dp.xml" value="0.403125" />
+        <entry key="..\:/Download-an/Perpustakaan-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.403125" />
+        <entry key="..\:/Download-an/Perpustakaan-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Download-an/Perpustakaan-master/app/src/main/res/layout/buku_item.xml" value="0.18819655521783182" />
+        <entry key="..\:/Download-an/Perpustakaan-master/app/src/main/res/layout/insert_fragment.xml" value="0.18819655521783182" />
+        <entry key="..\:/Download-an/Perpustakaan-master/app/src/main/res/layout/list_buku_fragment.xml" value="0.18819655521783182" />
+        <entry key="..\:/Download-an/Perpustakaan-master/app/src/main/res/layout/list_rak_buku_fragment.xml" value="0.18819655521783182" />
+        <entry key="..\:/Download-an/Perpustakaan-master/app/src/main/res/layout/rak_buku_item.xml" value="0.18819655521783182" />
+        <entry key="..\:/Download-an/Perpustakaan-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.36944444444444446" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
